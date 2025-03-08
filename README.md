@@ -1,2 +1,2 @@
 # ttgen-py
-Um projeto simples para criar tabelas-verdade a partir de expressões lógicas. Ideal para estudantes e entusiastas da lógica digital!
+A simple Python project to create truth tables from logical expressions. Ideal for students and digital logic enthusiasts.
